@@ -31,11 +31,13 @@
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-- 📧 Email: isithadinujaya@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/isitha-dinujaya-138104246/
-   
+<P>
+<a href="https://linkedin.com/in/isitha dinujaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isitha dinujaya" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/isithadinujaya" target="blank"><img align="center" src="https://cdn-1.webcatalog.io/catalog/hackerrank/hackerrank-icon-filled-256.webp?v=1714774596837" alt="isitha dinujaya" height="30" width="40" /></a>
+</p>
+
 ---
 
 ⭐ *Feel free to check out my repositories and reach out if you'd like to collaborate!*
