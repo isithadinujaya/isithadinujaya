@@ -35,6 +35,7 @@
 
 <P>
 <a href="https://linkedin.com/in/isitha dinujaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isitha dinujaya" height="30" width="40" /></a>
+<a href="[https://www.hackerrank.com/profile/isithadinujaya](https://www.kaggle.com/isithadinujaya)" target="blank"><img align="center" src="https://iconlogovector.com/uploads/images/2025/09/lg-68c75047217a6-Kaggle.webp" alt="isitha dinujaya" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/isithadinujaya" target="blank"><img align="center" src="https://cdn-1.webcatalog.io/catalog/hackerrank/hackerrank-icon-filled-256.webp?v=1714774596837" alt="isitha dinujaya" height="30" width="40" /></a>
 </p>
 
